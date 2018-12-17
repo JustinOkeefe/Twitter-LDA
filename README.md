@@ -10,3 +10,4 @@ Of the 714,575 tweets collected, only 141,487 qualified for analysis. Within tho
 Obviously, this would have been substantially more robust had we colected more tweets 
 (perhaps an order or magnitude more?). Otherwise, this was a successful exercise
 
+<img width="913" alt="screen shot 2018-12-16 at 10 22 29 pm" src="https://user-images.githubusercontent.com/29635444/50069989-313cfc00-0181-11e9-8943-ce3a8154ac1e.png">
