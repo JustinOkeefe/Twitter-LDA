@@ -1,3 +1,14 @@
+"""
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Topic-Tweets. This script unpacks the tweets, executes 
+the preprocessing tasks, trains the model, runs the 
+t-SNE for dimentionality reduction, and builds the 
+Bokeh visualization. 
+    @input = raw tweet
+    @output = Bokeh visualization (clustered)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"""
+
 import os
 import time
 import lda
